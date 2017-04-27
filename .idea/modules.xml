@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CodingameJava.iml" filepath="$PROJECT_DIR$/CodingameJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Onboarding/Onboarding.iml" filepath="$PROJECT_DIR$/Onboarding/Onboarding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerOfThor/PowerOfThor.iml" filepath="$PROJECT_DIR$/PowerOfThor/PowerOfThor.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheDescent/TheDescent.iml" filepath="$PROJECT_DIR$/TheDescent/TheDescent.iml" />
     </modules>
   </component>
